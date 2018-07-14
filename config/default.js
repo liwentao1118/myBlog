@@ -1,0 +1,9 @@
+module.exports={
+    port:80,
+    session:{
+        secret:'myblog',
+        key:'mublog',
+        maxAge:2592000000
+    },
+    mongodb:'mongodb://localhost:27017/myblog'
+}

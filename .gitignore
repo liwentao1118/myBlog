@@ -1,0 +1,5 @@
+congit/*
+!config/default.*
+npm-debug.log
+node_modules
+coverage
